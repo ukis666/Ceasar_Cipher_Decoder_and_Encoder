@@ -1,0 +1,4 @@
+﻿  sifreleyici.c
+C:\Users\sahin\source\repos\sifreleyici\sifreleyici\sifreleyici.c(11,9): warning C4047: 'return': 'int', yöneltme düzeyi sayısı bakımından 'void (__cdecl *)(const char *)' ile aynı değil
+C:\Users\sahin\source\repos\sifreleyici\sifreleyici\sifreleyici.c(13): warning C4715: 'can_file_open': tüm denetim yolları değer döndürmez
+  sifreleyici.vcxproj -> C:\Users\sahin\source\repos\sifreleyici\x64\Debug\sifreleyici.exe
